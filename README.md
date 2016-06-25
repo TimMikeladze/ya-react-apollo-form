@@ -1,1 +1,1 @@
-# ya-react-form-apollo
+# ya-react-apollo-form
