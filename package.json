@@ -1,5 +1,5 @@
 {
-  "name": "ya-react-apollo-form",
+  "name": "ya-react-redux-form-apollo",
   "version": "0.0.1",
   "description": "",
   "main": "dist/index.js",
